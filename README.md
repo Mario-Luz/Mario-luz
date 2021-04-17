@@ -1,6 +1,6 @@
-### Oie! Sou Mario 👋
+### Ola! Sou Mario 👋
 
-💻 Desenvolvedor Jr - Desenvolvedora em NodeJS 🏡 Brasileiro 🌎 São Paulo ✈️ Brasil
+💻 Desenvolvedor Jr - Desenvolvedor em NodeJS 🏡 Brasileiro 🌎 São Paulo ✈️ Brasil
 
 ### Encontre-me por aqui 🌎
 
@@ -10,12 +10,12 @@
 
 
 
-💻 Atualmente trabalho com React Js<br>
-📚 Estudando Testing Library<br>
-🎮 Graduada em Jogos Digitais<br>
-🎮 Enrolando pra voltar como Game Dev<br>
-🐱 Doida dos gatos...<br>
-🦖 e dinossauros :)
+💻 Atualmente trabalho com Nodejs e  ReactJs<br>
+📚 Estudando JavaScript e Pyton<br>
+📚 Graduaçãoem Ciencias da Computação<br>
+🎮 Competidor de Fighting games <br>
+
+
 
 Obrigada pela visita!
 </samp>
