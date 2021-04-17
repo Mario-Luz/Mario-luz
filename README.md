@@ -1,16 +1,21 @@
-### Hi there 👋
+### Oie! Sou Mario 👋
 
-<!--
-**Mario-Luz/Mario-luz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Jr - Desenvolvedora em NodeJS 🏡 Brasileiro 🌎 São Paulo ✈️ Brasil
 
-Here are some ideas to get you started:
+### Encontre-me por aqui 🌎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-MarioLuz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-luz/)](https://www.linkedin.com/in/mario-luz/)
+[![Gmail Badge](https://img.shields.io/badge/-marionetoluz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marionetoluz@gmail.com)](mailto:marionetoluz@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-MarioLuz-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mroluz//?hl=pt-br)](https://www.instagram.com/mroluz/)
+
+
+
+💻 Atualmente trabalho com React Js<br>
+📚 Estudando Testing Library<br>
+🎮 Graduada em Jogos Digitais<br>
+🎮 Enrolando pra voltar como Game Dev<br>
+🐱 Doida dos gatos...<br>
+🦖 e dinossauros :)
+
+Obrigada pela visita!
+</samp>
