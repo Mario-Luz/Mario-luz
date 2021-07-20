@@ -11,7 +11,7 @@
 
 
 💻 Atualmente trabalho com Nodejs e  ReactJs<br>
-📚 Estudando JavaScript e Pyton<br>
+📚 Estudando JavaScript e Python<br>
 📚 Graduação em Ciencias da Computação<br>
 🎮 Competidor de Fighting games <br>
 
