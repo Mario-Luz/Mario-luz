@@ -1,6 +1,6 @@
 ### Ola! Sou Mario 👋
 
-💻 Desenvolvedor Jr - Desenvolvedor em NodeJS 🏡 Brasileiro 🌎 São Paulo ✈️ Brasil
+💻 Desenvolvedor Full Stack 🏡 Brasileiro 🌎 São Paulo ✈️ Brasil
 
 ### Encontre-me por aqui 🌎
 
