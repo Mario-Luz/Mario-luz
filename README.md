@@ -17,5 +17,5 @@
 
 
 
-Obrigada pela visita!
+
 </samp>
